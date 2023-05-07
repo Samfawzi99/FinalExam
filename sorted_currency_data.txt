@@ -1,0 +1,15 @@
+Currency: Japanese Yen
+Founded: 1871
+In circulation: 1.064e+17
+Exchange rate to USD: 0.0087
+
+Currency: Euro
+Founded: 1999
+In circulation: 1.267e+13
+Exchange rate to USD: 1.1
+
+Currency: British Pound
+Founded: 1694
+In circulation: 2.6e+12
+Exchange rate to USD: 1.3
+
